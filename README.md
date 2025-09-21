@@ -1,4 +1,6 @@
 # STEPPER MOTOR INTERFACING
+# Name - KARTHICK K
+# Reg N0 - 212222040070
 
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
@@ -70,6 +72,9 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+
+![WhatsApp Image 2025-09-19 at 11 39 22_5e49813f](https://github.com/user-attachments/assets/861d96be-cd7d-4567-8846-976fa27ee9d7)
+
 
 ## RESULT
 
